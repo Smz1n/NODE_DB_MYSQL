@@ -1,7 +1,7 @@
 const  DB_HOST = 'localhost';
-const DB_USER = 'root';
-const DB_PASSWORD = '1234';
-const DB_NAME = 'db_comercio';
+const DB_USER = 'usuario';
+const DB_PASSWORD = 'senha';
+const DB_NAME = 'Nome do esquema';
 
 module.exports = {
     DB_HOST,
